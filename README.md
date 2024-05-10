@@ -11,7 +11,7 @@ Task from WebBee for Backend Internship
   make task1
 ```
 
-## Run second task, input date and time in following format: DD.MM.YY HH.MM
+## Run second task, input date and time in following format: DD.MM.YY HH:MM
 ```bash
   make task2
 ```
